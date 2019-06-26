@@ -1,0 +1,10 @@
+Problem Definition :
+
+*  Contoso is a multinational company with 12 offices all over the world.
+*  Being a multinational company their must be more than 10,000 employees working.
+*  They required a website for all employees to access Corporate Customers Accounting related information.
+*  It means that each employee should be able to access this website 24 x 7 to interract with there corporate customers
+*  Employees will store all the information about accounting.
+*  So company wanted to build and host this information system in public cloud like Google Cloud Platform or AWS
+*  As the company have offices at different parts of the world  so they need a central based environment to interact with eachother and can access each others information.
+	

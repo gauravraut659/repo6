@@ -1,0 +1,15 @@
+
+*** Functional Requirements ***
+
+--  An employee should be able to register himself  and login to the website 
+--  An employee should have access to the accounting related information of the corporate customers
+--
+
+  
+ *** Non-Functional Requirements ***
+
+--  Company need a Software-As-A-Service
+--  Website should be hosted on public platform like Google Cloud Platform 
+--  As Contos is a multinational company there will be thousands of employee accessing this website any time. 
+--  So website should be able to load all the request at anytime without any fail i.e Some Load Balancing technique should be used
+    so that website can sustain the load .
